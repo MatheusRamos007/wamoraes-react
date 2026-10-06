@@ -106,7 +106,7 @@ main {
 /* BANNER (index.html) */
 
 .banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('Imagens/images.carros.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/Imagens/images.carros.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
