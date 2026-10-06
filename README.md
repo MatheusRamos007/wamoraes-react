@@ -10,6 +10,10 @@ Matheus
 
 https://github.com/KaykyOls/wamoraess.github.io
 
+## Autor do index.html original
+
+Kayky
+
 ## Página desenvolvida na Parte 1
 
 sobre.html
