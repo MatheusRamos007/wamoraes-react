@@ -21,7 +21,7 @@ function Navbar() {
                 <nav>
                     <a href="#inicio">Início</a>
                     <a href="#sobre">Sobre</a>
-                    <a href="#destaques">Produtos</a>
+                    <a href="#destaques">Destaques</a>
                     <a href="#contato">Contato</a>
                 </nav>
             </header>
