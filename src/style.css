@@ -782,4 +782,6 @@ nav a:hover {
     color: #111;
 }html {
   scroll-behavior: smooth;
+}section {
+  scroll-margin-top: 100px;
 }
