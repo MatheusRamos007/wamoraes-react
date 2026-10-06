@@ -780,4 +780,6 @@ nav a {
 nav a:hover {
     background-color: #f2c200;
     color: #111;
+}html {
+  scroll-behavior: smooth;
 }
