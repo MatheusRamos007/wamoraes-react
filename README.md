@@ -39,3 +39,20 @@ Instale as dependências:
 
 ```bash
 npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+Para gerar a versão de produção:
+
+```bash
+npm run build
+```
+
+## Publicação
+
+https://melodic-lebkuchen-b36be0.netlify.app
